@@ -1,6 +1,6 @@
 # How it works
 
-- To begin with your html coding, open the **content** folder.
+- To begin with your html coding, open the **content** folder within which you find **HTML** content.
 
 + The *helloworld.html* file can be opened in text editor to read the html code.
 
@@ -10,4 +10,4 @@
 
 
 
- ** Happy Coding ! **
+> **Happy Coding !**
